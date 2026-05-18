@@ -14,18 +14,6 @@ This project fine-tunes OpenAI's `whisper-small` model on the **Arabic Speech Co
 
 ---
 
-## 🖥️ Demo
-
-> **Drop your screenshot or screen recording here.**
-> Replace the placeholder below with an actual image or GIF of your Streamlit app in action.
-
-```
-[ Screenshot / GIF Placeholder ]
-Place your demo image here: docs/demo.gif
-```
-
----
-
 ## ⚡ Installation & Usage
 
 ### 1. Clone the repository
