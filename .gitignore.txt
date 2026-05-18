@@ -1,0 +1,27 @@
+# --- Python & System ---
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+venv/
+env/
+
+# --- Datasets ---
+arabic-speech-corpus/
+*.zip
+*.tar.gz
+*.wav
+
+# --- Model Checkpoints & Weights ---
+whisper-arabic-checkpoints/
+whisper-arabic-final-sota/
+*.safetensors
+*.bin
+*.pt
+*.h5
+*.msgpack
+
+# --- Logs ---
+runs/
+logs/
