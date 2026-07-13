@@ -122,3 +122,4 @@ watchdog==6.0.0
 wcwidth==0.6.0
 xgboost==3.1.2
 yarg==0.1.10
+audio_recorder_streamlit
