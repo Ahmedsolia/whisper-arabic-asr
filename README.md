@@ -7,7 +7,8 @@
 ![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
 
 ---
-
+## You can Try the live demo through
+https://whisper-arabic-asr-u82eee7apc63rtbz4dm2tj.streamlit.app/
 ## 📌 Project Overview
 
 This project fine-tunes OpenAI's `whisper-small` model on the **Arabic Speech Corpus** to build a robust Arabic Automatic Speech Recognition (ASR) system. The model takes raw Arabic audio as input and outputs clean, normalized Arabic transcriptions. It was built to bridge the gap for Arabic speakers who need accurate, open-source speech-to-text without relying on closed APIs.
